@@ -5,9 +5,9 @@ The purpose of this analysis is to create two tables: The first table is to dete
 
 # Results
 
-The first table determines the number of retiring employees, and their position titles can be viewed here: retiring_titles.csv
+The first table determines the number of retiring employees, and their position titles can be viewed here:[retiring_titles.csv](https://github.com/callistusikeata/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett%20Hackard%20Analysis/Data/retiring_titles.csv)
 
-The second table identifies employee who are eligible for the mentorship program can be viewed here: mentorship_eligibility.csv
+The second table identifies employee who are eligible for the mentorship program can be viewed here:[mentorship_eligibility.csv](https://github.com/callistusikeata/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett%20Hackard%20Analysis/Data/mentorship_eligibility.csv)
 
 From these tables, we observed the following: 
 
